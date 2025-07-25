@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\v_simplest.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|solutionrelative:v_simplest.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\main_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|solutionrelative:main_file.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\ghost_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|solutionrelative:ghost_data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\f_simplest.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7288C82C-3F3E-4501-8878-A310FCA284FE}|gkiw_st_06_win.vcxproj|solutionrelative:f_simplest.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ghost_data.h",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\ghost_data.h",
+              "RelativeDocumentMoniker": "ghost_data.h",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\ghost_data.h",
+              "RelativeToolTip": "ghost_data.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-09T15:18:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_file.cpp",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\main_file.cpp",
+              "RelativeDocumentMoniker": "main_file.cpp",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\main_file.cpp",
+              "RelativeToolTip": "main_file.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T12:52:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "v_simplest.glsl",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\v_simplest.glsl",
+              "RelativeDocumentMoniker": "v_simplest.glsl",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\v_simplest.glsl",
+              "RelativeToolTip": "v_simplest.glsl",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T17:34:15.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "f_simplest.glsl",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\f_simplest.glsl",
+              "RelativeDocumentMoniker": "f_simplest.glsl",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\Grafika\\Projekt\\labirynt\\f_simplest.glsl",
+              "RelativeToolTip": "f_simplest.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-04T10:37:45.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
